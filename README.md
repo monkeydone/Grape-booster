@@ -1,5 +1,6 @@
 <html lang="en"><head>
 <body marginheight="0"><h5>LivesOne Coupon Declarative Rules</h5>
+<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/vpnbanner.png"/>
 <ul>
 <li>1.All goods in the LivsMall are electronics, which do not support refound or exchange. The usage status of goods is based on verification of the supplier.</li>
 <li>2.Each LVT account is limited to 3 purchases of the same product</li>
