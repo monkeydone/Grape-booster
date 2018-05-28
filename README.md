@@ -29,8 +29,8 @@
 <li>Two Year Card Package: 100G per month 5 terminals.</li>
 </ul>
 </li>
-<li><p>IOS Version:https://itunes.apple.com/app/apple-store/id1371848943?pt=118998097&ct=lvt_market&mt=8
-</p>
+<li><p>IOS Version:</p>
+<li>https://itunes.apple.com/app/apple-store/id1371848943?pt=118998097&ct=lvt_market&mt=8
 </li>
 <li>Android Version:</li>
 <li>https://github.com/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk</li>
