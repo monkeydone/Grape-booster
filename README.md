@@ -3,7 +3,7 @@
 <img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/vpnbanner.png"/>
 <h5>LivesOne Coupon Declarative Rules</h5>
 <ul>
-<li>1.All goods in the LivsMall are electronics, which do not support refound or exchange. The usage status of goods is based on verification of the supplier.</li>
+<li>1.All goods in the LivesMall are electronics, which do not support refund or exchange. The usage status of goods is based on verification of the supplier.</li>
 <li>2.Each LVT account is limited to 3 purchases of the same product</li>
 <li>3.Grape Booster (GB) Coupon Product Description: You can check coupons in My Coupon after purchasing. The coupons can generate redeem code which can be used directly to get the data in Grape Booster.</li>
 <li>4.The Coupon supplied by Grape Booster is currently only available for the users who are not in China. Users in China please do not purchase.</li>
