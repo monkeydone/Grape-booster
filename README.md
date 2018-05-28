@@ -32,9 +32,10 @@
 <li><p>IOS Version:https://itunes.apple.com/app/apple-store/id1371848943?pt=118998097&ct=lvt_market&mt=8
 </p>
 </li>
-<li>Android Version:https://github.com/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk
-                    https://coding.net/u/speedup/p/client/git/raw/master/apk/app-grape-1.0.2.101-release.apk
-                    https://bitbucket.org/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk
-                    https://speedupclient.oss-cn-hongkong.aliyuncs.com/apk/app-grape-1.0.2.101-release.apk
-                    https://pan.baidu.com/s/1uyqKRHkB5NOM30-U5nc7-A 密码: sb8x
+<li>Android Version:</li>
+<li>https://github.com/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk</li>
+<li>https://coding.net/u/speedup/p/client/git/raw/master/apk/app-grape-1.0.2.101-release.apk</li>
+<li>https://bitbucket.org/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk</li>
+<li>https://speedupclient.oss-cn-hongkong.aliyuncs.com/apk/app-grape-1.0.2.101-release.apk</li>
+<li>https://pan.baidu.com/s/1uyqKRHkB5NOM30-U5nc7-A 密码: sb8x</li>
 </body></html>
