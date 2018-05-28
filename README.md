@@ -7,7 +7,7 @@
 <li>2.Each LVT account is limited to 3 purchases of the same product</li>
 <li>3.Grape Booster (GB) Coupon Product Description: You can check coupons in My Coupon after purchasing. The coupons can generate redeem code which can be used directly to get the data in Grape Booster.</li>
 <li>4.The Coupon supplied by Grape Booster is currently only available for the users who are not in China. Users in China please do not purchase.</li>
-<li>5.Coupon Offer Deadline: xxxx.xx.xx.</li>
+<li>5.Coupon Offer Deadline: 05.28.2019.</li>
 </ul>
 <h5>Grape Booster (GB) data coupon usage guide and rules</h5>
 <ul>
