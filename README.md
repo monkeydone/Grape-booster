@@ -18,19 +18,23 @@
 <li><p>2.Usage rules for GB data coupon:</p>
 <ul>
 <li>The GB redeem code will be expired after 1 year.</li>
-<li>GB redeem code can exchange redeem member's data for week, month, quarter, half year, 1 year and 2 years. </li>
-<li>GB week/month/quarter/half year/year/2 years card can be purchased only three times.</li>
+<li>GB redeem code can exchange package for week, month, quarter, half year, 1 year and 2 years. </li>
+<li>GB week/month/quarter/half year/year/2 years redeem code can be purchased only three times.</li>
 <li>GB redeem code can not be overlay used, GB redeem code usage is calculated according to the natural month, clear after expired.</li>
-<li>Weekly Card: 4G = 4194304KB 1 terminal.</li>
-<li>Monthly Card: 15G=15728640KB 1 terminal.</li>
-<li>Quarterly Card: 50G=52428800KB 1 terminal.</li>
-<li>Half-year Card: 80G=8472494080KB 2 terminals.</li>
-<li>Yearly Card: 100G=104857600KB 2 terminals.</li>
-<li>Two Year Card: 100G = 104857600KB 5 terminals.</li>
+<li>Week Package: 4G per week 1 terminal.</li>
+<li>Month Package: 15G per month 1 terminal.</li>
+<li>Quarter Package: 50G per month 1 terminal.</li>
+<li>Half Year Package: 80G per month 2 terminals.</li>
+<li>Year Card Package: 100G per month 2 terminals.</li>
+<li>Two Year Card Package: 100G per month 5 terminals.</li>
 </ul>
 </li>
 <li><p>IOS Version:https://itunes.apple.com/app/apple-store/id1371848943?pt=118998097&ct=lvt_market&mt=8
 </p>
 </li>
 <li>Android Version:https://github.com/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk
+                    https://coding.net/u/speedup/p/client/git/raw/master/apk/app-grape-1.0.2.101-release.apk
+                    https://bitbucket.org/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk
+                    https://speedupclient.oss-cn-hongkong.aliyuncs.com/apk/app-grape-1.0.2.101-release.apk
+                    https://pan.baidu.com/s/1uyqKRHkB5NOM30-U5nc7-A 密码: sb8x
 </body></html>
