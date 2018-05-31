@@ -48,6 +48,6 @@ Monthly data usage counts from the day you purchased Grape Booster, and is valid
 4. The Coupon supplied by Grape Booster is currently only available for the users who are not in China. Users in China please do not purchase.
 5. Coupon Offer Deadline: 05.28.2019.
 
--<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/Telegram.jpg" width="50">Telegram Group: 
+<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/Telegram.jpg" width="50">Telegram Group: 
 
--https://t.me/GrapeBooster
+https://t.me/GrapeBooster
