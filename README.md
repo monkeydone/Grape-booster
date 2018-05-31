@@ -14,7 +14,9 @@
 
 ### Is Grape booster Free?
 
-Every fresh user will get **100M free** data for 1 month. If this 100M data is used up, there are various packages for you to choose. 
+Every fresh user will get **100M free** data for 1 month. If this 100M data is used up, there are various packages for you to choose.
+Grape booster now supports iOS, android and windows. One grape booster account can be used to login those three platforms. (Note: currently, grape booster account can only be registered through iOS and android)
+
 
 |Platform| Download Loacation | QR |
 |:---: | :--- | :---: |
