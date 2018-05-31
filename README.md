@@ -18,13 +18,13 @@ Every fresh user will get **100M free** data for 1 month. If this 100M data is u
 
 |Platform| Download Loacation | QR |
 |:---: | :--- | :---: |
-| ios  | [https://itunes.apple.com/app/apple-store/id1371848943?pt=118998097&ct=lvt_market&mt=8](https://itunes.apple.com/app/apple-store/id1371848943?pt=118998097&ct=lvt_market&mt=8)|<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/ios.png" width="80">|
-| android | [https://github.com/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk](https://github.com/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk) |<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-github.png" width="80">|
-| android | [https://coding.net/u/speedup/p/client/git/raw/master/apk/app-grape-1.0.2.101-release.apk](https://coding.net/u/speedup/p/client/git/raw/master/apk/app-grape-1.0.2.101-release.apk) |<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-coding.png" width="80">|
-| android | [https://bitbucket.org/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk](https://bitbucket.org/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk) | <img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-coding.png" width="80">|
-| android | [https://speedupclient.oss-cn-hongkong.aliyuncs.com/apk/app-grape-1.0.2.101-release.apk](https://speedupclient.oss-cn-hongkong.aliyuncs.com/apk/app-grape-1.0.2.101-release.apk) |<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-speedupclient.png" width="80">|
-| android | [https://pan.baidu.com/s/1uyqKRHkB5NOM30-U5nc7-A](https://pan.baidu.com/s/1uyqKRHkB5NOM30-U5nc7-A) 密码: sb8x | <img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-baidu%20pan.png" width="80">|
-| windows | [https://s3-ap-southeast-1.amazonaws.com/surf360client/win/Shadowshark_1.0.0.108_18020701.zip](https://s3-ap-southeast-1.amazonaws.com/surf360client/win/Shadowshark_1.0.0.108_18020701.zip)|<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/windows.png" width="80">|
+| ios  | [https://itunes.apple.com/app/apple-store/id1371848943?pt=118998097&ct=lvt_market&mt=8](https://itunes.apple.com/app/apple-store/id1371848943?pt=118998097&ct=lvt_market&mt=8)|<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/ios.png" width="100">|
+| android | [https://github.com/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk](https://github.com/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk) |<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-github.png" width="100">|
+| android | [https://coding.net/u/speedup/p/client/git/raw/master/apk/app-grape-1.0.2.101-release.apk](https://coding.net/u/speedup/p/client/git/raw/master/apk/app-grape-1.0.2.101-release.apk) |<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-coding.png" width="100">|
+| android | [https://bitbucket.org/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk](https://bitbucket.org/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk) | <img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-coding.png" width="100">|
+| android | [https://speedupclient.oss-cn-hongkong.aliyuncs.com/apk/app-grape-1.0.2.101-release.apk](https://speedupclient.oss-cn-hongkong.aliyuncs.com/apk/app-grape-1.0.2.101-release.apk) |<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-speedupclient.png" width="100">|
+| android | [https://pan.baidu.com/s/1uyqKRHkB5NOM30-U5nc7-A](https://pan.baidu.com/s/1uyqKRHkB5NOM30-U5nc7-A) 密码: sb8x | <img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-baidu%20pan.png" width="100">|
+| windows | [https://s3-ap-southeast-1.amazonaws.com/surf360client/win/Shadowshark_1.0.0.108_18020701.zip](https://s3-ap-southeast-1.amazonaws.com/surf360client/win/Shadowshark_1.0.0.108_18020701.zip)|<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/windows.png" width="100">|
 
 ### What platform does Grape booster support?
 
