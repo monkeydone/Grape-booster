@@ -30,7 +30,7 @@ Grape booster now supports iOS, android and windows. One grape booster account c
 
 ### What platform does Grape booster support?
 
-Grape booster now supports iOS, android and windows. 
+Grape booster now supports iOS（IOS system supports 9.0 version or above）, android（Android system supports 5.0 version or above） and windows. 
 
 ### What regions does Grape Booster servers cover?
 
