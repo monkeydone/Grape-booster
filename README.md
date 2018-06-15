@@ -26,7 +26,7 @@ Grape booster now supports iOS, android and windows. One grape booster account c
 | android(mirror)| [https://bitbucket.org/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk](https://bitbucket.org/speedupfree/client/raw/master/apk/app-grape-1.0.2.101-release.apk) | <img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-bitbucket.png" width="100">|
 | android(mirror) | [https://speedupclient.oss-cn-hongkong.aliyuncs.com/apk/app-grape-1.0.2.101-release.apk](https://speedupclient.oss-cn-hongkong.aliyuncs.com/apk/app-grape-1.0.2.101-release.apk) |<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-speedupclient.png" width="100">|
 | android(mirror) | [https://pan.baidu.com/s/1uyqKRHkB5NOM30-U5nc7-A](https://pan.baidu.com/s/1uyqKRHkB5NOM30-U5nc7-A) Password: sb8x | <img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/android-baidu%20pan.png" width="100">|
-| windows | [https://s3-ap-southeast-1.amazonaws.com/surf360client/win/Shadowshark_1.0.0.108_18020701.zip](https://s3-ap-southeast-1.amazonaws.com/surf360client/win/Shadowshark_1.0.0.108_18020701.zip)|<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/windows.png" width="100">|
+| windows | [https://s3-ap-southeast-1.amazonaws.com/surf360client/win/Shadowshark_1.0.0.110_18061501.zip](https://s3-ap-southeast-1.amazonaws.com/surf360client/win/Shadowshark_1.0.0.108_18020701.zip)|<img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/windows.png" width="100">|
 
 ### What platform does Grape booster support?
 
