@@ -1,6 +1,6 @@
 <img src="https://www-static.livesone.net/Uploads/Picture/2018-05-22/vpnbanner.png"/>
 
-### What is Grape Booster?
+### What is Grape Booster
 
 **Grape booster** provides fast and high quality accesses to connect to blocked sites. 
 
